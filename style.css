@@ -1,4 +1,7 @@
 /* Team Blog Styles - To be expanded */
+/* Footer Styles */
+
+/* Navigation & Header Styles */
 /* Navigation & Header Styles */
 header {
     background-color: #333;
@@ -7,14 +10,13 @@ header {
     text-align: center;
 }
 
-nav a {
+/* Footer Styles */
+footer {
+    background-color: #333;
     color: white;
-    text-decoration: none;
-    margin: 0 1rem;
-    padding: 0.5rem;
-}
-
-nav a:hover {
-    background-color: #555;
-    border-radius: 4px;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
